@@ -1,0 +1,477 @@
+[
+  {
+    "id": 9451,
+    "content": "本年度有必修课不及格者，原则上不能获得该年度奖学金。\nIn principle, those who fail the required courses in the current year cannot be awarded the scholarship for that year.",
+    "answer": "yes"
+  },
+  {
+    "id": 9452,
+    "content": "私自留宿非本宿舍成员，经批评教育不改的，给予警告处分。\nA student who allows others who do not belong to the dormitory to sleep there without permission and refuses to change that behavior despite criticism and education about the rules shall be subject to disciplinary action of a warning. ",
+    "answer": "yes"
+  },
+  {
+    "id": 9453,
+    "content": "在个人的商业活动中，公开在招牌、广告、海报、文件、网站、媒体等载体中非法使用学校的名称或标识，造成不良影响的，给予警告（含）以上处分。\nA student who illegally uses the name or logo of the university overtly in signboards, advertisements, posters, documents, websites, media or other carriers in personal business activities, thereby causing adverse effects, shall be subject to disciplinary action at the level of a Warning or above.",
+    "answer": "yes"
+  },
+  {
+    "id": 9454,
+    "content": "小明胁迫他人从事封建迷信活动，并造成了严重后果，应被给予留校察看（含）以上处分。\nXiao Ming coerced others to engage in superstitious activities which caused serious consequences. The disciplinary action for this misconduct is Academic probation.",
+    "answer": "yes"
+  },
+  {
+    "id": 9455,
+    "content": "参与赌博的，给予严重警告处分;赌资较大或以营利为目的为赌博提供条件的，给予记过(含)以上处分\nThose who participate in gambling will be given a serious warning; a demerit or more severe punishment will be given to those who gamble with high stakes or provide conditions for gambling for the purpose of making profits.",
+    "answer": false
+  },
+  {
+    "id": 9456,
+    "content": "隐匿、毁弃、非法占有、修改他人的通知单据、信件、邮件等，造成严重后果或实际损失的， 给予警告(含)以上处分\nThose who conceal, destroy, illegally possess or modify the notice documents, letters, mails, etc., of others, thereby causing serious consequences or actual losses, will be given a warning or a stricter punishment.",
+    "answer": "yes"
+  },
+  {
+    "id": 9457,
+    "content": "受到治安管理处罚的，给予记过、留校察看或开除学籍处分\nThose who are punished by public security management will be subject to the penalty of demerit, academic probation, or expulsion from the school.",
+    "answer": "yes"
+  },
+  {
+    "id": 9458,
+    "content": "盗用、冒用、涂改、伪造、变造学生证、校园卡、成绩单或其他证件、证明性文件的，给予严重警告（含）以上处分\nAnyone who steals and fraudulently uses, alters, forges or doctors a student ID, campus card, transcripts or other certificates or supporting documents will be given a punishment of a severe warning or stricter.",
+    "answer": false
+  },
+  {
+    "id": 9459,
+    "content": "私自调换、占用学生宿舍床位，经批评教育不改的，给予警告(含)以上处分\nStudents who persist in secretly changing beds or occupying another student’s dormitory bed and refuse to abide by regulations despite having been criticized and educated about the rules shall be given a warning or more serious punishment.",
+    "answer": "yes"
+  },
+  {
+    "id": 9460,
+    "content": "扰乱公寓管理秩序，对他人正常学习生活造成影响，经批评教育不改的，给予警告（含）以上处分\nStudents who persist in disturbing the management order of the dormitory and affect the normal study and life of others and do not abide by the regulations despite having been criticized and educated about the rules shall be punished at the level of being given a warning or greater.",
+    "answer": "yes"
+  },
+  {
+    "id": 9461,
+    "content": "受到刑事处罚的，给予留校察看或开除学籍处分\nThose who are subject to criminal penalties will be subject to academic probation or expulsion from school.",
+    "answer": "yes"
+  },
+  {
+    "id": 9462,
+    "content": "偷窥、偷拍、窃听、散布他人隐私等，造成不良影响或严重后果的，给予严重警告(含)以上处分\nPeeping, secretly taking pictures, eavesdropping, or violating another person’s privacy and causing adverse effects or serious consequences will be given a serious warning or a stricter punishment.",
+    "answer": "yes"
+  },
+  {
+    "id": 9463,
+    "content": "小明在入校三个月内的资格复查中，被发现本人的身份证明与考生档案不一致，被确定为复查不合格，取消学籍。以上说法是否正确？\n(Single answer question) During the eligibility review within three months of enrollment, Xiao Ming’s personal I.D. was found to be different than the ID he reported as an admission candidate. Therefore, he will fail the review and his student status will be cancelled. Is the above statement true?",
+    "answer": "yes"
+  },
+  {
+    "id": 9464,
+    "content": "小明在入学报道前，被发现患有慢性疾病，在医院治疗一个月后复查发现没有痊愈，仍需进行治疗，可携带二级甲等以上医院诊断证明书、本人病历复印件，并经北京大学医院保健科认定后，申请保留入学资格一年。以上说法是否正确？\n(Single answer question) Xiao Ming finds out that he is suffering from chronic disease before his admission to the university, and, after one month of treatment in the hospital, he still hasn’t recovered. He can submit his certificate of diagnosis from a hospital of grade 2 or higher and a copy of his medical records, and, after verification by the Department of Health Care of Peking University Hospital, he can apply to extend his admission qualification for one year. Is the above statement true? ",
+    "answer": "yes"
+  },
+  {
+    "id": 9465,
+    "content": "研究生应在开学两周内，按规定时间、流程进行课程补、退选，逾期不予办理。以上说法是否正确？\nGraduate students may add or withdraw from courses within two weeks of the start of the semester, according to the prescribed time and process; beyond the two-week period, such requests will not be processed.Is the above statement true? ",
+    "answer": "yes"
+  },
+  {
+    "id": 9466,
+    "content": "组织赌博、聚众赌博、屡次赌博的，给予留校察看（含）以上处分\nA student who organizes gambling, gathering people to gamble, or gambles repeatedly shall be subject to disciplinary action at the level of Academic probation or above.",
+    "answer": "yes"
+  },
+  {
+    "id": 9467,
+    "content": "在学校进行宗教活动的，给予警告(含)以上处分\n(Single answer question) Students who conduct religious activities in the university will be subject to disciplinary action at the level of Warning or above.",
+    "answer": false
+  },
+  {
+    "id": 9469,
+    "content": "私自留宿非本宿舍成员，经批评教育不改的，给予警告处分。以上说法是否正确？\nA student who allows others who do not belong to the dormitory to sleep there without permission and refuses to change that behavior despite criticism and education about the rules shall be subject to disciplinary action of a warning. Is the above statement true?  ",
+    "answer": "yes"
+  },
+  {
+    "id": 9470,
+    "content": "留学生享受与中国学生相同的节假日。其他国家的节假日，学校不放假。以上说法是否正确？\nInternational students enjoy the same holidays as Chinese students. The university does not follow the holidays of other countries. Is the above statement true? ",
+    "answer": "yes"
+  },
+  {
+    "id": 9471,
+    "content": "持有中国其他城市签发的居留许可或非学习类居留许可的同学，必须在报到后（）日内到留学生办公室办理居留许可变更。\nStudents who hold residence permits or non-study residence permits issued by other cities in China must go to the International Students Office to change their residence permits within (___) days after registering.",
+    "answer": "(D)"
+  },
+  {
+    "id": 9472,
+    "content": "当你发现并确认护照遗失后，应当在第一时间做的事情是（），力求将损失降到最低。\nWhen you discover and confirm the loss of your passport, the first thing you should do is (____) in order to minimize the possibility of any adverse impact.",
+    "answer": "(A)"
+  },
+  {
+    "id": 9473,
+    "content": "公寓熄灯时间为硕士生公寓楼或楼层24:00（周日至周四）熄灯；博士生公寓楼或楼层不熄灯；（学期末停课考试期间、假期以及特殊情况，根据学校有关规定，熄灯时间另行安排）。住宿学生应当自觉遵守学校公寓熄灯规定，适时关闭宿舍内有关电器，不得影响他人休息。以上说法是否正确（）\nThe lights in the dormitory will be turned off at 24:00 (Sunday to Thursday) in the dormitory building or floor for master students; the lights are not turned off in the dormitory building or floor for doctoral students (lights out arrangements are adjusted according to the semester exams, holidays and special circumstances). Resident students should consciously abide by the school’s dormitory lights-off regulations, turn off relevant electrical appliances in the dormitory in a timely manner, and their behavior or actions must not affect others. Is the above statement true: (__)?",
+    "answer": "(A)"
+  },
+  {
+    "id": 9474,
+    "content": "居留许可有效期满后如还继续在北大学习，需要在居留许可到期前办理延长手续，延长的居留许可日期必须超过（）天。\nIf you continue to study at Peking University after the expiration of your residence permit, you will need to apply for extension procedures before the expiration of your residence permit. The extended residence permit must be longer than (___) days.",
+    "answer": "(C)"
+  },
+  {
+    "id": 9475,
+    "content": "据中华人民共和国法律，海洛因、吗啡、大麻、可卡因等以及国务院规定管制的其他能够使人形成瘾癖的麻醉药品和精神药品均属毒品，吸食、走私、贩卖、运输、制造、非法持有毒品均属于严重违法犯罪行为，将会受到法律的严厉制裁（）\nAccording to the laws of the People’s Republic of China, heroin, morphine, marijuana, cocaine, etc., as well as other narcotic drugs and psychotropic drugs that can cause addiction and which are controlled by the State Council are all illegal drugs. Ingestion, smuggling, trafficking, transportation, manufacturing, or illegal possession of drugs are all serious violations of the law and will be severely punished by the law. Is the above statement true or false?",
+    "answer": "(A)"
+  },
+  {
+    "id": 9476,
+    "content": "考试时，使用手机、非教师允许的计算器等具有信息发送、接收、存储功能的设备或者在课桌、座位及旁边被发现有这些设备的，夹带、偷看、抄袭、与他人交换考试信息等构成作弊的，以及其他严重违反考试纪律者，视情节轻重，给予记过及记过以上处分。以上说法是否正确（）\nDuring an exam, usage of mobile phones, calculators that are not permitted by the teacher, or other devices with information sending, receiving and storage functions; or if such devices are found on the desks, seats and nearby; usage of smuggled notes; peeking at the exam papers of others; plagiarism; or exchanging exam-related information with others all constitute cheating. For cheating in an exam as well as other serious violations of exam regulations, the punishment of issuing a demerit or more severe consequences will be given depending on the severity of the circumstances. Is the above statement true or false? (___)",
+    "answer": "正确\nTrue"
+  },
+  {
+    "id": 9477,
+    "content": "留学生持X1学习签证入境后，签证有效期为（）天，必须在入境后（）天之内前往留学生办公室申请办理居留许可，不能变更为其他任何类型的签证。\nAfter entering the country with the X1 study visa, the validity of the visa is (___) days, and the student must apply for a residence permit at the International Student Office within (___) days after entering the country; furthermore, an X1 study visa cannot be changed to any other type of visa.",
+    "answer": "30，30\nThirty，Thirty"
+  },
+  {
+    "id": 9478,
+    "content": "留学生享受与中国学生相同的节假日。其他国家的节假日，学校不放假。以上说法是否正确（）\nInternational students enjoy the same holidays as Chinese students. The university does not follow the holidays of other countries. Is the above statement true or false? (___).",
+    "answer": "(A)"
+  },
+  {
+    "id": 9479,
+    "content": "留学生需要特别注意的是，如果更换了护照、签证或者变更了住址，都必须要在（）之内重新办理住宿登记，否则将会被视为非法居留\nIf you change your passport, visa or address, you must re-register within (____), or you will be deemed to have stayed illegally.",
+    "answer": "(C)"
+  },
+  {
+    "id": 9480,
+    "content": "留学生需在本国所在的中国使馆或领事馆申请入华签证。 申请签证所需要提供的文件包括您的（ ）\nStudents should apply for an entry visa at the Chinese embassy or consulate in their home country. The documents required for visa application include your (__).",
+    "answer": "(D)"
+  },
+  {
+    "id": 9481,
+    "content": "留学生应按照录取通知书上指定的（）报到注册\nInternational students should register in accordance with the (______) specified in the admission notice. ",
+    "answer": "(B)"
+  },
+  {
+    "id": 9482,
+    "content": "留学生应按照录取通知书指定的报到日期报到注册。如需提前入境，建议不要早于报到日的（）周。\nInternational students should register according to the date specified in the admission notice. If you need to enter the country in advance, it is recommended that you do not enter the country earlier than (___) week(s) before the registration day.",
+    "answer": "(B)"
+  },
+  {
+    "id": 9483,
+    "content": "留学生在中国更换护照后，必须在领取护照后的（）日内，先到留学生办公室申请，之后前往北京市公安局出入境管理总队办理护照号码变更手续，否则将因非法居留受到处罚。\nWithin (___) days after receiving a new passport, international students should apply at the International Students office, and then go to the Exit and Entry Administration of Beijing Municipal Public Security Bureau to change their passport number on record. Otherwise, they may be punished for illegal residence.",
+    "answer": "(B)"
+  },
+  {
+    "id": 9484,
+    "content": "为了校园卡资金安全，系统设定消费限额为每餐累积（）元。超过时需输入消费密码。\nAs a security measure to protect the funds on your campus card, the system sets the consumption limit of (___) RMB per meal. If you exceed that amount in one meal, you need to enter your PIN number at the time of paying for your meal.",
+    "answer": "(B)"
+  },
+  {
+    "id": 9485,
+    "content": "小明读研究生一年级，因家中有事，需要请一周的事假，应当由（）批准\n(Single answer question) Xiao Ming is in his first year of graduate study. He needs to ask for personal leave for a week due to a family issues. His request should be approved by the (____).",
+    "answer": "(A)"
+  },
+  {
+    "id": 9486,
+    "content": "小明同学办理调宿、退宿手续后未在7日内搬清个人物品，导致他人无法正常入住，应被给予（）\nIf Xiao Ming fails to remove his personal belongings within 7 days after checking out, he shall be given (___).",
+    "answer": "(A)"
+  },
+  {
+    "id": 9487,
+    "content": "小明在工作后的一次评奖评优中，需要提供毕业证书，发现研究生毕业证书遗失，此时他应当如何做（）\nFor a post-job evaluation, Xiao Ming is asked to provide his graduation certificate; however, he discovers that he has lost it. What should he do in this situation? (__)",
+    "answer": "(C)"
+  },
+  {
+    "id": 9488,
+    "content": "小明在入校三个月内的资格复查中，被发现本人的身份证明与考生档案不一致，被确定为复查不合格，取消学籍。以上说法是否正确（）\n(Single answer question) During the eligibility review within three months of enrollment, Xiao Ming’s personal I.D. was found to be different than the ID he reported as an admission candidate. Therefore, he will fail the review and his student status will be cancelled. Is the above statement true or false?",
+    "answer": "(A)"
+  },
+  {
+    "id": 9489,
+    "content": "小明在入学报道前，被发现患有慢性疾病，在医院治疗一个月后复查发现没有痊愈，仍需进行治疗，可携带二级甲等以上医院诊断证明书、本人病历复印件，并经北京大学医院保健科认定后，申请保留入学资格一年。以上说法是否正确（）\n(Single answer question) Xiao Ming finds out that he is suffering from chronic disease before his admission to the university, and, after one month of treatment in the hospital, he still hasn’t recovered. He can submit his certificate of diagnosis from a hospital of grade 2 or higher and a copy of his medical records, and, after verification by the Department of Health Care of Peking University Hospital, he can apply to extend his admission qualification for one year. Is the above statement true? (__)",
+    "answer": "正确\nTrue"
+  },
+  {
+    "id": 9490,
+    "content": "校园卡消费密码为你的护照号码后（）位。\nThe campus card PIN number is the last ___ digits of your passport number.",
+    "answer": "(C)"
+  },
+  {
+    "id": 9491,
+    "content": "<p>新生在报到时，必须至少付清（）的学费（学习时间为一学期的学生须付清全部学费），学费必须以人民币支付。\r\nAt the time of registration, new students must pay at least ( &nbsp; &nbsp;) of the tuition fee (one-semester students must pay the full tuition fee), and payment must be in RMB.</p>",
+    "answer": "(B)"
+  },
+  {
+    "id": 9492,
+    "content": "学生公寓的来访会客时间为：（）\nStudent dormitory visiting hours are: (____)",
+    "answer": "(B)"
+  },
+  {
+    "id": 9493,
+    "content": "学生违反法律法规、违反《普通高等学校学生管理规定》、违反学校章程和规章制度，学校应当给予批评教育，并可视情节轻重，给予纪律处分。纪律处分共有（）种。\nFor students who violate laws and regulations, violate the “Regulations on the Management of Students in Ordinary Colleges and Universities” or violate the school’s articles of association and rules and regulations, the school shall give criticism and education, and may give disciplinary sanctions based on the severity of the circumstances. There are () types of disciplinary actions. ",
+    "answer": "(C)"
+  },
+  {
+    "id": 9494,
+    "content": "学生有违反法律法规行为，受到刑事处罚的，给予（）处分\n(Single answer question) Students who violate laws and regulations and have received criminal punishment will be subject to (________).",
+    "answer": "(C)"
+  },
+  {
+    "id": 9495,
+    "content": "学生住宿期间存在以下行为的，给予通报批评（）\nStudents who engage in any of the following behaviors during their stay will be notified and criticized: (___)",
+    "answer": "带入、饲养动物\nHaving pet animals or bringing pets on campus."
+  },
+  {
+    "id": 9496,
+    "content": "学习时间在半年以上持X1签证的留学生需要在入境（）天内办理居留许可。\nStudents with an X1 visa who will study for more than half a year need to apply for a residence permit within (___) days of entry.",
+    "answer": "(D)"
+  },
+  {
+    "id": 9497,
+    "content": "研究生应在开学两周内，按规定时间、流程进行课程补、退选，逾期不予办理。以上说法是否正确（）\nGraduate students may add or withdraw from courses within two weeks of the start of the semester, according to the prescribed time and process; beyond the two-week period, such requests will not be processed.",
+    "answer": "(A)"
+  },
+  {
+    "id": 9498,
+    "content": "因休学退宿的小明想要再次申请宿舍，应当提前（）日向公寓服务中心提出书面申请\nAfter having taken a leave of absence, if Xiao Ming wants to apply for dormitory housing again, he should submit a written application to the dormitory management (____) days in advance.",
+    "answer": "(B)"
+  },
+  {
+    "id": 9499,
+    "content": "因学生个人原因和特殊情况需要调换宿舍或床位的，应通过所在院系向公寓服务中心提出申请，根据宿舍空余情况，经批准后方可进行调换。办理调宿手续后，应在（）日内搬离原宿舍\nStudents who need to change their dormitories or beds due to personal reasons or special circumstances should apply to the dormitory management through their school/department. The change can only be made after approval and according to the availability of beds/dormitories elsewhere. After handling the transfer procedure, the student should move out of the dormitory within (____) days.",
+    "answer": "(C)"
+  },
+  {
+    "id": 9500,
+    "content": "在图书馆的网站上登录后，你可完成预约、续借、查询借阅状态等多项操作。登录时你需要“学号”和“密码”。学位生的密码与校内门户网站上的密码一致，为（）。你在使用过程中有任何问题，也可以在网上向图书馆的管理人员提出。\nAfter logging into the library's website, you can complete multiple operations such as making an appointment, renewing, and querying the borrowing status of a book. You will need your “student ID” and “password” when logging in. The password for degree students is the same as your password on the school portal website, which is (____). If you have any questions, you can also ask the library administrators online.",
+    "answer": "(A)"
+  },
+  {
+    "id": 9501,
+    "content": "在图书馆借书，一般只能借（），期满后需要办理续借手续，可以到图书馆柜台续借，也可以通过图书馆的网站续借。如果逾期不还，图书馆将视情节轻重给予相应的处罚。\nWhen borrowing books in the library, you can only borrow for (    ). On or before the due date, if you still need the books, you will need to renew them. You can renew them at the library counter or through the library website. If overdue, the library will issue a fine according to the seriousness of the case.",
+    "answer": "(C)"
+  },
+  {
+    "id": 9502,
+    "content": "在学校进行宗教活动的，给予（）(含)以上处分\n(Single answer question) Students who conduct religious activities in the university will be subject to disciplinary action at the level of (____) or above.",
+    "answer": "(C)"
+  },
+  {
+    "id": 9503,
+    "content": "在中国学习期限在（）以上的留学生需要办理居留许可，有效期标明在居留许可上，学生可以在居留许可有效期内多次出入境。\nInternational students who study in China for a period of (___) or more need to apply for a residence permit. The validity period is indicated on the residence permit. Students can enter and exit China multiple times within the validity period of the residence permit.",
+    "answer": "1年\n1 year"
+  },
+  {
+    "id": 9504,
+    "content": "住宿学生不得在非来访时间接待他人，违反来访会客相关规定导致他人在非来访时间停留在公寓楼内，（）小时以内（含）的视为短暂容留或滞留\nResidential students are not allowed to receive visitors during non-visiting hours. Violating the relevant regulations on visitors and allowing others to visit and stay in the dorm during non-visiting hours within (____) hours (inclusive) shall be regarded as \nviolation of the prohibition of allowing others to stay overnight. ",
+    "answer": "(C)"
+  },
+  {
+    "id": 9505,
+    "content": "组织、策划非法集会、游行、示威等活动，不听劝阻的，给予记过处分;情节严重的，给予（）(含) 以上处分\n(Single answer question) Students who plan or organize an unlawful assembly, demonstration or other activities without listening to efforts at dissuasion will be given demerits; cases of severe violation will be subject to disciplinary action at the level of (____) or above.",
+    "answer": "(D)"
+  },
+  {
+    "id": 9506,
+    "content": "组织、教唆、胁迫、诱骗、煽动他人从事邪教、封建迷信活动，扰乱社会秩序、损害他人身体健康的， 给予（）处分;情节严重的，给予（）(含)以上处分\n(Single answer question) Students who organize, instigate, coerce, trick or incite others to engage in cult or superstitious activities, thereby disturbing the social order and damaging the health of others, will be given (___); cases of severe violation will be subject to disciplinary action at the level of (___) or above.",
+    "answer": "(B)"
+  },
+  {
+    "id": 9507,
+    "content": "（）是中国农历新年的第一天，是中国民间最重要、最隆重同时也是最热闹和最富有特色的一个传统节日。\n(____) is the first day of the Chinese Lunar New Year. It is one of the most important, ceremonious and traditional festivals among Chinese people.",
+    "answer": "(A)"
+  },
+  {
+    "id": 9508,
+    "content": "以下哪项不属于纪律处分：（）\nWhich of the following is not a disciplinary action? (       )",
+    "answer": "(B)"
+  },
+  {
+    "id": 9509,
+    "content": "某同学在毕业论文写作期间，由于压力较大，遂使用毛笔在燕南园内文物上乱写乱画。针对上述行为，该生将被至少处以（）处分\nWhile writing his graduation thesis, due to being under a lot of pressure, a student drew graffiti on an important cultural structure in Yannan Garden. For the above behavior, what action will be taken against the student?",
+    "answer": "(B)"
+  },
+  {
+    "id": 9510,
+    "content": "A同学在网上采购了大量试剂，并根据专业知识制作销售违禁药品，因违反《中华人民共和国刑法》，被公安机关刑拘。根据北京大学校规校纪，该学生应至少被处以（）处分\nStudent A purchased a large number of reagents online, then made and sold illegal drugs based on his professional knowledge. He was detained by the public security bureau for violating the ‘Criminal Law of the People's Republic of China’. According to the rules and regulations of Peking University, the student will be subject to (____) as a form of punishment.",
+    "answer": "(C)"
+  },
+  {
+    "id": 9511,
+    "content": "以下哪项不是侵犯人身权利、财产权利的行为（）\nWhich of the following is not a violation of personal or property rights? (___)",
+    "answer": "(B)"
+  },
+  {
+    "id": 9512,
+    "content": "小Z在宿舍阳台上堆放易燃物品，楼长发现后对其进行批评教育并要求及时清理，小李我行我素、不予理睬，之后引发了一场小火灾，造成宿舍楼内的恐慌，按照《北京大学学生违纪处分办法》，应至少被给予以下哪种处分：（）\nStudent Z stored flammable items on the dormitory balcony. After being caught and asked to clear the items expeditiously, the student still ignores the request and later those flammable items cause a small fire and panic in the dormitory building. In accordance with the ‘Peking University Student Disciplinary Regulations’, which of the following should be the minimum punishment: (___)",
+    "answer": "(C)"
+  },
+  {
+    "id": 9513,
+    "content": "关于处分的期限，以下说法错误的是：（）\nRegarding the period of punishment, which of the following statements is incorrect: (___)",
+    "answer": "(C)"
+  },
+  {
+    "id": 9514,
+    "content": "关于网络使用有关规定行为，以下说法错误的有：（）\nWhich of the following statement about internet usage is incorrect?",
+    "answer": "从事或协助从事危害网络安全活动，包括非法侵入他人网络、干扰他人网络正常功能、窃取网络数据等，造成严重后果的，给予警告（含）以上处分\nStudents who engage in or assist in activities endangering network security, including illegally intruding into or interfering with the normal functions of the networks of others, stealing network data, etc., thereby causing serious consequences, shall be given warning or stricter punishment."
+  },
+  {
+    "id": 9515,
+    "content": "组织赌博、聚众赌博、屡次赌博的，给予（）（含）以上处分。\nA student who organizes gambling, gathering people to gamble, or gambles repeatedly shall be subject to disciplinary action at the level of (____) or above.",
+    "answer": "(D)"
+  },
+  {
+    "id": 9516,
+    "content": "在校期间两次受到纪律处分，经教育不改，第三次违纪按规定应当给予处分的，给予（）处分。\nIf a student who has been disciplined twice in school and has not changed after being educated about the rules commits a third punishable violation of discipline, according to the regulations he/she shall be subject to (____).",
+    "answer": "开除学籍\nSchool expulsion"
+  },
+  {
+    "id": 9517,
+    "content": "小明胁迫他人从事封建迷信活动，并造成了严重后果，应被给予（）（含）以上处分。\nXiao Ming coerced others to engage in superstitious activities which caused serious consequences. The disciplinary action for this misconduct is (_____)",
+    "answer": "(C)"
+  },
+  {
+    "id": 9518,
+    "content": "小明公然侮辱他人，捏造事实诽谤他人并造成严重后果，应被给予（）（含）以上处分。\nA student who publicly insults others, threatens the personal safety of others, fabricates facts to slander others or falsely accuses or frames others which results in severe consequences will be subjected to disciplinary action at the level of （____）",
+    "answer": "(B)"
+  },
+  {
+    "id": 9519,
+    "content": "小明经常偷拍他人隐私，给同学造成了严重困扰，应被给予（）（含）以上处分。\nXiao Ming takes photos of another student, invading the privacy of and adversely impacting the student. Xiao Ming should be subjected to disciplinary action at the level of (a) (____)",
+    "answer": "(B)"
+  },
+  {
+    "id": 9520,
+    "content": "小明行为不端，常常对他人进行性骚扰，造成了恶劣的社会影响，应被给予（）（含）以上处分。\nXiao Ming’s misbehavior and frequent sexual harassment of others have caused a negative social impact, so he will be given a/subject to (____) or more severe consequence.",
+    "answer": "严重警告\nSerious warning"
+  },
+  {
+    "id": 9521,
+    "content": "违反学校保密工作规定，未遵守保密义务泄露国家秘密或学校在一定时间内不宜公开的内部事项的，根据情节轻重，给予（）（含）以上处分。\nA student who violates the provisions on the confidential work of the university, failing to abide by the obligation of confidentiality or divulges state secrets or internal matters that the university should not disclose within a certain period of time shall be subject to disciplinary action at the level of a (____) or above according to the severity of the case.",
+    "answer": "(A)"
+  },
+  {
+    "id": 9522,
+    "content": "在家庭经济状况认定及各项资助申请过程中弄虚作假的，根据情节轻重，给予（）（含）以上处分。\nA student who commits fraud in the process of identifying his/her family’s economic status while applying for various kinds of financial assistance shall be subject to disciplinary action at the level of a (____) or above according to the severity of the case.",
+    "answer": "(A)"
+  },
+  {
+    "id": 9523,
+    "content": "小明私自将学生公寓的床位出租给外校人员，应被给予（）（含）以上处分。\nXiao Ming secretly rented his dorm bed to people outside the university; for this, Xiao Ming will be subject to disciplinary action at the level of a (____) or above according to the severity of the case.",
+    "answer": "(A)"
+  },
+  {
+    "id": 9524,
+    "content": "小明长期将自己的校园卡出租给某一行为不端的外校人员，给北京大学的声誉造成了不良影响，小明应被给予（）（含）以上处分。\nXiao Ming rented out his campus card for a long time to a misbehaving member of an outside school, which caused a negative impact on the reputation of Peking University. Xiao Ming will be subject to disciplinary action at the level of a (____) or above according to the severity of the case.",
+    "answer": "(A)"
+  },
+  {
+    "id": 9525,
+    "content": "在个人的商业活动中，公开在招牌、广告、海报、文件、网站、媒体等载体中非法使用学校的名称或标识，造成不良影响的，给予（）（含）以上处分。\nA student who illegally uses the name or logo of the university overtly in signboards, advertisements, posters, documents, websites, media or other carriers in personal business activities, thereby causing adverse effects, shall be subject to disciplinary action at the level of a (____) or above.",
+    "answer": "(A)"
+  },
+  {
+    "id": 9526,
+    "content": "小明同学扰乱食堂秩序，经劝阻不听并造成不良影响，应被给予（）（含）以上处分。\nIf Xiao Ming disturbs the order of the canteen, does not abide by the regulations and his behavior results in negative impact, he will be subject to disciplinary action at the level of a (____) or above according to the severity of the case.",
+    "answer": "(C)"
+  },
+  {
+    "id": 9527,
+    "content": "私刻、伪造公章，造成不良影响或严重后果的，给予记过（含）以上处分。以上说法是否正确：（）\nA student who privately engraves or forges the official seal causing adverse impact shall be subject to disciplinary action of demerit or even more severe consequences. Is this statement true or false?",
+    "answer": "(B)"
+  },
+  {
+    "id": 9528,
+    "content": "私自留宿非本宿舍成员，经批评教育不改的，给予警告处分。以上说法是否正确（）。\nA student who allows others who do not belong to the dormitory to sleep there without permission and refuses to change that behavior despite criticism and education about the rules shall be subject to disciplinary action of a warning. Is the above statement true or false?  (___)",
+    "answer": "正确\nTrue"
+  },
+  {
+    "id": 9529,
+    "content": "研究生有下列情形之一者，应予以退学（）\nGraduate students should drop out of university under which of the following circumstances? (___)",
+    "answer": "(A B C D)"
+  },
+  {
+    "id": 9530,
+    "content": "关于公寓使用的有关规定，以下说法正确的有：（）\n(Multiple answer question) Regarding dormitory regulations, which of the following are true?",
+    "answer": "(B D)"
+  },
+  {
+    "id": 9531,
+    "content": "学生违纪有下列情形之一，可以从轻处分:（）\n(Multiple answer question) Students who violate rules and regulations in one of      the following circumstances may be given a lighter punishment :(_____)",
+    "answer": "(A B C)"
+  },
+  {
+    "id": 9532,
+    "content": "以下行为，视其情节给予记过（含）以上处分的有（）\n(Multiple answer question) According to the circumstances, for which of the following behaviors would the punishment of a demerit recording or more be imposed?",
+    "answer": "(A B C D)"
+  },
+  {
+    "id": 9533,
+    "content": "首次申请居留许可，所需要准备的材料为（）\nWhen a student applies for a residence permit for the first time, which of the following materials should you prepare（）",
+    "answer": "(A B C D)"
+  },
+  {
+    "id": 9534,
+    "content": "北京大学可为外国留学生的（），申请有效期在6个月以内的S2签证或长期或长期的 S1 签证。\nFor the (____) of international students, Peking University can apply for an S2 visa valid for less than 6 months or a long-term S1 visa.",
+    "answer": "(B C )"
+  },
+  {
+    "id": 9535,
+    "content": "签证或居留许可过期、无住宿登记或住宿登记过期，都视为违反中国相关法律，构成非法居留。将由公安机关根据情节严重，处以（）等处罚。\nIf your visa, residence permit and dormitory registration expire and you do not update them timely, you will be regarded as an illegal resident. Depending on the severity of the situation, you might receive a（）.",
+    "answer": "(A B C D)"
+  },
+  {
+    "id": 9536,
+    "content": "以下违反学校规定、扰乱校园秩序行为的情形的处理，正确的有：（）\nWhich of the following behaviors are considered violation of school regulations and disrupting campus order, and will be handled as specified: (___)",
+    "answer": "(A C D)"
+  },
+  {
+    "id": 9537,
+    "content": "下列为达到个人目的的行为中，视其情节将给予记过（含）以上处分的有：（）\nAmong the following actions taken to benefit oneself, according to their circumstances, which will be given a demerit or more severe punishment? (___)",
+    "answer": "(A B C D)"
+  },
+  {
+    "id": 9538,
+    "content": "学生有违反法律法规行为的，以下处理正确的有：（）\nIf a student violates laws and regulations, which of the following statements are true: (__)",
+    "answer": "(A C D)"
+  },
+  {
+    "id": 9539,
+    "content": "学生违纪有下列情形之一，可以从轻处分：（）\nStudents who violate discipline in one of the following circumstances can be given a lighter punishment（）",
+    "answer": "(B C D)"
+  },
+  {
+    "id": 9540,
+    "content": "以下行为，视其情节给予记过处分的有（）\n(Multiple answer question) According to the circumstances, for which of the following behaviors would the punishment of a demerit recording?",
+    "answer": "(A B)"
+  },
+  {
+    "id": 9541,
+    "content": "学生有如下哪些侵犯人身权利、财产权利的行为时，应给予严重警告（含）以上的处分：（）\nStudents will be given a serious warning or more severe punishment if they have committed any of the following acts violating personal rights and property rights（）",
+    "answer": "(A B)"
+  },
+  {
+    "id": 9542,
+    "content": "关于侵犯人身权利、财产权利的行为纪律处分，下面案例的处理结果正确的是：（）\nWhich of the following statements about disciplinary action are true for the infringement of personal rights and property rights: (____)",
+    "answer": "(A B C D)"
+  },
+  {
+    "id": 9543,
+    "content": "关于妨害社会管理、违反学校规定的行为纪律处分，下面案例的处理结果正确的是：（）\nWhich of the following statements about disciplinary action are true for the infringement of personal rights and property rights（）",
+    "answer": "(A C D)"
+  },
+  {
+    "id": 9544,
+    "content": "留学生的居留许可有效期满后如还继续在北大学习，需要在居留许可到期前前往留学生办公室办理延长手续，所需要的材料包括（）。\nIf you want to continue your study at Peking University after the expiration of your residence permit, you will need apply at the International Students Division for an extension before the expiration of your residence permit. The required materials include (___).",
+    "answer": "(A B C D)"
+  },
+  {
+    "id": 9545,
+    "content": "当留学生发现并确认护照遗失后，必须马上按照如下程序进行处理，力求将损失降到最低，包括但不限于：（）\nWhen an international student discovers and confirms that the passport is lost, the student must immediately follow which of the following procedures (there may be others as well) to minimize the impact? ()",
+    "answer": "(A B C D)"
+  },
+  {
+    "id": 9546,
+    "content": "留学生办理家属签证时，所需要材料包括（）\nThe required materials for international students to apply for a visa for a family member include: (___)",
+    "answer": "(A B C D)"
+  }
+]
