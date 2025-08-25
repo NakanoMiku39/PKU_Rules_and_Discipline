@@ -1,29 +1,30 @@
-name: Sort ans.json on push/PR/merge
+name: Sort ans.json on push/merge
 
 on:
   push:
     branches:
-      - '**'           # 任意分支 push 都触发
-  pull_request:
-    branches:
-      - '**'           # 任意分支 PR 都触发
+      - main  # 只在 main 分支 push/merge 时触发
 
 jobs:
   sort_ans:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write  # 授予写权限
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0  # 确保获取完整历史记录
+          
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-
+          
       - name: Run sort_ans.py
-        run: python3 sort_ans.py
-
+        run: python sort_ans.py
+        
       - name: Commit and push changes
         run: |
           git config --local user.email "actions@github.com"
