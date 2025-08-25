@@ -1,0 +1,33 @@
+name: Sort ans.json on push/PR/merge
+
+on:
+  push:
+    branches:
+      - '**'           # 任意分支 push 都触发
+  pull_request:
+    branches:
+      - '**'           # 任意分支 PR 都触发
+
+jobs:
+  sort_ans:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run sort_ans.py
+        run: python3 sort_ans.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add ans.json
+          git commit -m "Auto sort ans.json by workflow" || echo "No changes to commit"
+          git push
